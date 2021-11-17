@@ -1,4 +1,4 @@
-#Discord server down? Try this new invite link
+# Discord server down? Try this new invite link
 
 https://discord.gg/2ehpxyS3YZ
 
@@ -7,7 +7,7 @@ https://discord.gg/2ehpxyS3YZ
 
 THE 'MapAssist' TOOL AND CONTENTS THEREIN WERE INTENDED FOR INFORMATIONAL AND LEARNING PURPOSES ONLY.
 
-Join the discussion: https://discord.gg/5b2B7QrVqa
+Join the discussion: https://discord.gg/2ehpxyS3YZ
 
 Feel free to contribute a pull request with new features or fixes, the code is under GPL so make sure to please follow the license.
 
