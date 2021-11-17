@@ -1,3 +1,7 @@
+#Discord server down? Try this new invite link
+
+https://discord.gg/2ehpxyS3YZ
+
 # MapAssist
 
 
